@@ -1,7 +1,7 @@
 export const tours = [
   {
     tourImg:
-      "https://dl.airtable.com/.attachments/a0cd0702c443f31526267f38ea5314a1/2447eb7a/paris.jpg",
+      "https://res.cloudinary.com/birthdayreminder/image/upload/v1702486416/Tours%20REACT/paris-zy4x2ow5p7j5qi4a_mylzrb.jpg",
     tourName: "Best Of Paris In 7 Days Tour",
     tourCost: "$1,995",
     tourDescriptionFull:
@@ -11,7 +11,7 @@ export const tours = [
   },
   {
     tourImg:
-      "https://dl.airtable.com/.attachments/6c24084000a3777064c5200a8c2ae931/04081a3e/ireland.jpeg",
+      "https://res.cloudinary.com/birthdayreminder/image/upload/v1702486416/Tours%20REACT/HD-wallpaper-irish-landscape-ireland-nature-sky-landscape-coast_pwnydg.jpg",
     tourName: "Best Of Ireland In 14 Days Tour",
     tourCost: "$3,895",
     tourDescriptionFull:
@@ -21,7 +21,7 @@ export const tours = [
   },
   {
     tourImg:
-      "https://dl.airtable.com/.attachments/27f6cbfe631e303f98b97e9dafacf25b/6bbe2a07/vienna.jpeg",
+      "https://res.cloudinary.com/birthdayreminder/image/upload/v1702486417/Tours%20REACT/Saltzburg-Austria-01_shutterstock_1109032043-1360x900_arjmtc.jpg",
     tourName: "Best Of Salzburg & Vienna In 8 Days Tour",
     tourCost: "$2,695",
     tourDescriptionFull:
@@ -31,7 +31,7 @@ export const tours = [
   },
   {
     tourImg:
-      "https://dl.airtable.com/.attachments/3efa7aa402d49c12b8769c581a96af42/d5b641e3/italy.jpeg",
+      "https://res.cloudinary.com/birthdayreminder/image/upload/v1702486417/Tours%20REACT/rome-sulbx6px7mjmy0a3_pmb7iy.jpg",
     tourName: "Best Of Rome In 7 Days Tour",
     tourCost: "$2,095",
     tourDescriptionFull:
@@ -41,7 +41,7 @@ export const tours = [
   },
   {
     tourImg:
-      "https://dl.airtable.com/.attachments/3feee7a93af0f4f809312132090c9a80/58e3e8ec/poland.jpeg",
+      "https://res.cloudinary.com/birthdayreminder/image/upload/v1702486416/Tours%20REACT/warsaw-poland-old-town-night-lights-wallpaper-preview_bz1qkv.jpg",
     tourName: "Best Of Poland In 10 Days Tour",
     tourCost: "$2,595",
     tourDescriptionFull:
